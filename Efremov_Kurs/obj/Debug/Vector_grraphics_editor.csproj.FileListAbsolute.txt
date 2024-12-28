@@ -1,0 +1,9 @@
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Vector_grraphics_editor.exe.config
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Vector_grraphics_editor.exe
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Vector_grraphics_editor.pdb
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Form1.resources
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Vector_grraphics_editor.Properties.Resources.resources
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Vector_grraphics_editor.csproj.GenerateResource.cache
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Vector_grraphics_editor.csproj.CoreCompileInputs.cache
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Vector_grraphics_editor.exe
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Vector_grraphics_editor.pdb

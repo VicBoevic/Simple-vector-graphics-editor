@@ -1,0 +1,50 @@
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe.config
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.pdb
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.AssemblyReference.cache
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Properties.Resources.resources
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.GenerateResource.cache
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.CoreCompileInputs.cache
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.exe
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.pdb
+D:\University\ГрафонЛабы\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Form1.resources
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe.config
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\bin\Debug\Efremov_Kurs.pdb
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.AssemblyReference.cache
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.Form1.resources
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.Properties.Resources.resources
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.GenerateResource.cache
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.exe
+C:\Users\Skullhacker\Downloads\Курсач вити\Efremov_Kurs\obj\Debug\Efremov_Kurs.pdb
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe.config
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.pdb
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Form1.resources
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Properties.Resources.resources
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.GenerateResource.cache
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.exe
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.pdb
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.AssemblyReference.cache
+D:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.CoreCompileInputs.cache
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe.config
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.pdb
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csprojAssemblyReference.cache
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Form1.resources
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Properties.Resources.resources
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.GenerateResource.cache
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.CoreCompileInputs.cache
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.exe
+E:\ГСК\Курсовая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.pdb
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe.config
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.exe
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\bin\Debug\Efremov_Kurs.pdb
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.AssemblyReference.cache
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Form1.resources
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.Properties.Resources.resources
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.GenerateResource.cache
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.csproj.CoreCompileInputs.cache
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.exe
+D:\University\ГрафонЛабы\Курсовая\Куросвая новая\Efremov_Kurs\Efremov_Kurs\obj\Debug\Efremov_Kurs.pdb
